@@ -11,8 +11,8 @@
   <a href="https://github.com/janviii09">
     <img src="https://img.shields.io/github/followers/janviii09?label=Follow&style=social" alt="GitHub Followers">
   </a>
-  <a href="mailto:janvi@example.com">
-    <img src="https://img.shields.io/badge/Email-janvi@example.com-blue?style=flat-square&logo=gmail" alt="Email">
+  <a href="mailto:guptajanvi0912@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jguptajanvi0912@gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
   </a>
 </p>
 
