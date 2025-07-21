@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/followers/janviii09?label=Follow&style=social" alt="GitHub Followers">
   </a>
   <a href="mailto:guptajanvi0912@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jguptajanvi0912@gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-guptajanvi0912@gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
   </a>
 </p>
 
