@@ -80,38 +80,6 @@ API Design, UI/UX, Responsive Design, Open Source Contribution
 
 ---
 
-## 🚩 Project Highlights
-
-### 🌟 Featured Projects
-
-<!-- Add your best/most relevant projects below!  
-You can pin your top repositories from your GitHub profile as well. Edit the links as needed.
--->
-
-<table>
-  <tr>
-    <td>
-      <b>Portfolio Website</b><br>
-      A fully responsive React and Next.js-based portfolio with interactive animations.<br>
-      <a href="https://github.com/janviii09/portfolio">[Code]</a> • 
-      <a href="https://janviii09.github.io">[Live]</a><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React"/>
-      <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled-Components"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>AI Image Generator</b><br>
-      Built with Node.js backend and OpenAI API, allows users to create AI art.<br>
-      <a href="https://github.com/janviii09/ai-image-generator">[Code]</a><br>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat" alt="OpenAI"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB"/>
-    </td>
-  </tr>
-  <!-- Add more project rows as needed -->
-</table>
 
 ---
 
