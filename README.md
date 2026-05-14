@@ -95,16 +95,6 @@ An intelligent platform featuring a **RAG-based AI companion**, real-time voice 
 `Next.js` `TypeScript` `Python` `ML Ensemble` `RAG` `WebSocket`
 
 </td>
-<td width="50%">
-
-### ✈️ [TravelAI](https://github.com/janviii09/TravelAI)
-<p><em>Intelligent Travel Planner with AI Itinerary Generation</em></p>
-
-AI-powered travel planner with auto-generated itineraries, personalized trip planning, integrated hotel & flight booking via **Gemini & TripAdvisor APIs**, and a dynamic cart system.
-
-`React.js` `Flask` `Python` `SQLite` `Gemini API` `Vite`
-
-</td>
 </tr>
 <tr>
 <td width="50%">
@@ -115,60 +105,6 @@ AI-powered travel planner with auto-generated itineraries, personalized trip pla
 Multi-modal routing engine with intelligent algorithm selection (Dijkstra, A*, BFS, Bellman-Ford), dynamic traffic heatmaps via **Segment Trees**, and MST animation using Kruskal's with DSU.
 
 `Python` `FastAPI` `JavaScript` `HTML5 Canvas` `DSA`
-
-</td>
-<td width="50%">
-
-### 🔍 [Hybrid-Spam-Analyser](https://github.com/janviii09/Hybrid-Spam-Analyser)
-<p><em>Multi-Layered Intelligent Spam Detection System</em></p>
-
-Hybrid spam detector combining **Fuzzy Logic**, Neural Networks (MLP), Naive Bayes, and **Genetic Algorithm optimization** for ensemble model weight tuning. Full-stack with interactive web UI.
-
-`Python` `scikit-learn` `scikit-fuzzy` `Flask` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💬 [Real-Time-Chat-Application](https://github.com/janviii09/Real-Time-Chat-Application)
-<p><em>WebSocket-Powered Real-Time Messaging Platform</em></p>
-
-Full-featured real-time chat application with instant messaging, WebSocket communication, responsive design, and user presence indicators. Clean, modern UI with seamless UX.
-
-`JavaScript` `Node.js` `WebSocket` `CSS3` `MIT License`
-
-</td>
-<td width="50%">
-
-### 👗 [FashionRenewal](https://github.com/janviii09/FashionRenewal)
-<p><em>Sustainable Fashion & Clothing Renewal Platform</em></p>
-
-A TypeScript-based platform promoting sustainable fashion through clothing renewal, exchange, and eco-conscious shopping. Built with modern web frameworks and responsive design.
-
-`TypeScript` `React` `Next.js` `CSS3`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌾 [AgriCult](https://github.com/janviii09/AgriCult)
-<p><em>Smart Agriculture Solution</em></p>
-
-An agriculture-focused web platform designed to help farmers with smart tools, data insights, and resources. Community-driven project with active forks.
-
-`JavaScript` `React` `Node.js`
-
-</td>
-<td width="50%">
-
-### 🍽️ [Restaurant-Find](https://github.com/janviii09/restaurant-find)
-<p><em>Location-Based Restaurant Discovery App</em></p>
-
-A JavaScript-powered restaurant finder that helps users discover dining options based on location, cuisine preferences, and ratings.
-
-`JavaScript` `API Integration` `CSS3`
 
 </td>
 </tr>
