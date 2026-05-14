@@ -1,110 +1,238 @@
-<h1 align="center">
-  Hi, I'm Janvi Gupta! <img src="https://img.icons8.com/color/48/000000/rocket--v2.png" width="32" alt="Rocket"/>
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Web+%26+AI+Enthusiast;Building+Scalable+%26+Impactful+Solutions;Open+Source+Advocate;Always+Learning+%E2%9A%A1%EF%B8%8F" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <a href="mailto:guptajanvi0912@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/janviii09/"><img src="https://img.shields.io/badge/LinkedIn-Janvi%20Gupta-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/janviii09"><img src="https://img.shields.io/badge/GitHub-janviii09-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-</p>
-
----
-
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" alt="Coding GIF"/>
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Janvi%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast%20%7C%20Open-Source%20Contributor&descSize=16&descAlignY=52" width="100%"/>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+intelligent+web+%26+AI+solutions+%F0%9F%9A%80;Turning+ideas+into+scalable+products+%F0%9F%92%A1;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Social Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/janviii09?logo=github&style=for-the-badge&color=6C63FF&labelColor=1a1b27)](https://github.com/janviii09?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/janviii09?logo=github&style=for-the-badge&color=6C63FF&labelColor=1a1b27)](https://github.com/janviii09?tab=stars)
+[![Profile Views](https://komarev.com/ghpvc/?username=janviii09&style=for-the-badge&color=6C63FF&labelColor=1a1b27)](https://github.com/janviii09)
+
 </div>
 
 ---
 
-## 🌐 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" /> &nbsp;About Me
 
-- 🚀 Dedicated Software Engineer with a passion for modern web, cloud, and AI development.
-- 🧠 Fast learner always working on new projects and adapting to leading-edge technology.
-- 🎨 Strong focus on beautiful UI/UX + scalable, maintainable backend code.
-- 🤝 Loves collaborating in open-source and cross-functional teams.
-- 🌱 Always growing — new challenges are opportunities!
-- ☁️ Cloud, code, and a good coffee are my best friends!
+```yaml
+name: Janvi Gupta
+role: Full-Stack Developer & AI/ML Enthusiast
+education: B.Tech in Computer Science (JIIT, Noida)
+currently_building: AI-powered platforms for social good
+interests: [Web Development, Machine Learning, Data Structures, Open Source]
+fun_fact: "I believe the best code is written with a cup of coffee ☕"
+```
 
----
-
-## 🏅 Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-</p>
+- 🔭 &nbsp;Currently working on **[AshaLink](https://github.com/janviii09/AshaLink)** — an AI-powered mental health & safety companion
+- 🌱 &nbsp;Deepening my expertise in **Next.js, TypeScript, and ML model deployment**
+- 🏆 &nbsp;Active contributor to **JIIT Optica Chapter** (open-source & hackathons)
+- 💬 &nbsp;Ask me about **React, Node.js, Python, FastAPI, or AI/ML pipelines**
+- ⚡ &nbsp;Passionate about building tech that **creates real-world impact**
 
 ---
 
-## 🛠️ Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
 
-<details>
-<summary><b>Click to Expand</b></summary>
+<div align="center">
 
-**Languages:**  
-JavaScript (ES6+), TypeScript, Python, SQL, HTML, CSS/SASS
+### 🖥️ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**Front-End:**  
-React, Next.js, Styled Components, Figma
+### ⚡ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Back-End:**  
-Node.js, Express.js, RESTful API design
+### 🧠 AI / ML
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
-**Database:**  
-MongoDB, PostgreSQL
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**DevOps / Cloud:**  
-Docker, AWS (EC2, S3, Lambda, DynamoDB)
-
-**Version Control & Workflow:**  
-Git, GitHub, Agile/Scrum
-
-**Other:**  
-API Design, UI/UX, Responsive Design, Open Source Contribution
-
-</details>
-
----
-
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janviii09&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=janviii09&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janviii09&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
 
-<p align="center">
-  <a href="mailto:guptajanvi0912@gmail.com"><img src="https://img.shields.io/badge/Email-guptajanvi0912@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/janviii09/"><img src="https://img.shields.io/badge/LinkedIn-Janvi%20Gupta-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/janviii09"><img src="https://img.shields.io/badge/GitHub-janviii09-181717?style=for-the-badge&logo=github"></a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [AshaLink](https://github.com/janviii09/AshaLink)
+<p><em>AI-Powered Mental Health & Safety Companion</em></p>
+
+An intelligent platform featuring a **RAG-based AI companion**, real-time voice interaction, ML-powered anomaly detection, and crisis intervention with SOS alerts. Built with a three-layer architecture.
+
+`Next.js` `TypeScript` `Python` `ML Ensemble` `RAG` `WebSocket`
+
+</td>
+<td width="50%">
+
+### ✈️ [TravelAI](https://github.com/janviii09/TravelAI)
+<p><em>Intelligent Travel Planner with AI Itinerary Generation</em></p>
+
+AI-powered travel planner with auto-generated itineraries, personalized trip planning, integrated hotel & flight booking via **Gemini & TripAdvisor APIs**, and a dynamic cart system.
+
+`React.js` `Flask` `Python` `SQLite` `Gemini API` `Vite`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗺️ [Route-Planner](https://github.com/janviii09/Route-Planner)
+<p><em>Advanced Graph Theory & Routing Simulation Engine</em></p>
+
+Multi-modal routing engine with intelligent algorithm selection (Dijkstra, A*, BFS, Bellman-Ford), dynamic traffic heatmaps via **Segment Trees**, and MST animation using Kruskal's with DSU.
+
+`Python` `FastAPI` `JavaScript` `HTML5 Canvas` `DSA`
+
+</td>
+<td width="50%">
+
+### 🔍 [Hybrid-Spam-Analyser](https://github.com/janviii09/Hybrid-Spam-Analyser)
+<p><em>Multi-Layered Intelligent Spam Detection System</em></p>
+
+Hybrid spam detector combining **Fuzzy Logic**, Neural Networks (MLP), Naive Bayes, and **Genetic Algorithm optimization** for ensemble model weight tuning. Full-stack with interactive web UI.
+
+`Python` `scikit-learn` `scikit-fuzzy` `Flask` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 [Real-Time-Chat-Application](https://github.com/janviii09/Real-Time-Chat-Application)
+<p><em>WebSocket-Powered Real-Time Messaging Platform</em></p>
+
+Full-featured real-time chat application with instant messaging, WebSocket communication, responsive design, and user presence indicators. Clean, modern UI with seamless UX.
+
+`JavaScript` `Node.js` `WebSocket` `CSS3` `MIT License`
+
+</td>
+<td width="50%">
+
+### 👗 [FashionRenewal](https://github.com/janviii09/FashionRenewal)
+<p><em>Sustainable Fashion & Clothing Renewal Platform</em></p>
+
+A TypeScript-based platform promoting sustainable fashion through clothing renewal, exchange, and eco-conscious shopping. Built with modern web frameworks and responsive design.
+
+`TypeScript` `React` `Next.js` `CSS3`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌾 [AgriCult](https://github.com/janviii09/AgriCult)
+<p><em>Smart Agriculture Solution</em></p>
+
+An agriculture-focused web platform designed to help farmers with smart tools, data insights, and resources. Community-driven project with active forks.
+
+`JavaScript` `React` `Node.js`
+
+</td>
+<td width="50%">
+
+### 🍽️ [Restaurant-Find](https://github.com/janviii09/restaurant-find)
+<p><em>Location-Based Restaurant Discovery App</em></p>
+
+A JavaScript-powered restaurant finder that helps users discover dining options based on location, cuisine preferences, and ratings.
+
+`JavaScript` `API Integration` `CSS3`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=janviii09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=janviii09&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janviii09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=janviii09&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="28" /> &nbsp;Contribution Graph
+
+<div align="center">
+
+[![Janvi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=janviii09&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="Handshake" width="28" /> &nbsp;Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-janviii09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janviii09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janvigupta)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janvigupta@example.com)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<sub>⭐ From <a href="https://github.com/janviii09">janviii09</a> — If you find my work interesting, consider giving a star!</sub>
+
 </div>
