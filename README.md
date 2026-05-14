@@ -99,41 +99,16 @@ An intelligent platform featuring a **RAG-based AI companion**, real-time voice 
 <tr>
 <td width="50%">
 
-### 🗺️ [Route-Planner](https://github.com/janviii09/Route-Planner)
-<p><em>Advanced Graph Theory & Routing Simulation Engine</em></p>
+### 💬 [Real-Time-Chat-Application](https://github.com/janviii09/Real-Time-Chat-Application)
+<p><em>WebSocket-Powered Real-Time Messaging Platform</em></p>
 
-Multi-modal routing engine with intelligent algorithm selection (Dijkstra, A*, BFS, Bellman-Ford), dynamic traffic heatmaps via **Segment Trees**, and MST animation using Kruskal's with DSU.
+Full-featured real-time chat application with instant messaging, WebSocket communication, responsive design, and user presence indicators. Clean, modern UI with seamless UX.
 
-`Python` `FastAPI` `JavaScript` `HTML5 Canvas` `DSA`
+`JavaScript` `Node.js` `WebSocket` `CSS3` `MIT License`
 
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=janviii09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=janviii09&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janviii09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=janviii09&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
