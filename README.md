@@ -1,71 +1,137 @@
 <h1 align="center">
-  Hey there, I'm Janvi!
-  <img src="https://img.icons8.com/color/48/000000/rocket--v2.png" width="32"/>
+  Hi, I'm Janvi Gupta! <img src="https://img.icons8.com/color/48/000000/rocket--v2.png" width="32" alt="Rocket"/>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=420&lines=Code.+Create.+Collaborate." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Web+%26+AI+Enthusiast;Building+Scalable+%26+Impactful+Solutions;Open+Source+Advocate;Always+Learning+%E2%9A%A1%EF%B8%8F" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/janviii09">
-    <img src="https://img.shields.io/github/followers/janviii09?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  <a href="mailto:guptajanvi0912@gmail.com">
-    <img src="https://img.shields.io/badge/Email-guptajanvi0912@gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
-  </a>
+  <a href="mailto:guptajanvi0912@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/janviii09/"><img src="https://img.shields.io/badge/LinkedIn-Janvi%20Gupta-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/janviii09"><img src="https://img.shields.io/badge/GitHub-janviii09-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" alt="Coding GIF"/>
 </div>
 
 ---
 
-### 🌈 About Me
+## 🌐 About Me
 
-- 🚀 Passionate about creating smart, scalable products
-- 🤖 Exploring the intersection of web and AI
-- 🌱 Always learning, always building
-- 🎨 I design, develop, and debug
-- ☕ Coffee and clouds are my aesthetic
+- 🚀 Dedicated Software Engineer with a passion for modern web, cloud, and AI development.
+- 🧠 Fast learner always working on new projects and adapting to leading-edge technology.
+- 🎨 Strong focus on beautiful UI/UX + scalable, maintainable backend code.
+- 🤝 Loves collaborating in open-source and cross-functional teams.
+- 🌱 Always growing — new challenges are opportunities!
+- ☁️ Cloud, code, and a good coffee are my best friends!
 
 ---
 
-### 🧰 My Toolbox
+## 🏅 Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-222?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/TypeScript-222?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/React-222?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-222?style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/AWS-222?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Git-222?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/Docker-222?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/MongoDB-222?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-### 🔥 GitHub Stats
+## 🛠️ Skills
+
+<details>
+<summary><b>Click to Expand</b></summary>
+
+**Languages:**  
+JavaScript (ES6+), TypeScript, Python, SQL, HTML, CSS/SASS
+
+**Front-End:**  
+React, Next.js, Styled Components, Figma
+
+**Back-End:**  
+Node.js, Express.js, RESTful API design
+
+**Database:**  
+MongoDB, PostgreSQL
+
+**DevOps / Cloud:**  
+Docker, AWS (EC2, S3, Lambda, DynamoDB)
+
+**Version Control & Workflow:**  
+Git, GitHub, Agile/Scrum
+
+**Other:**  
+API Design, UI/UX, Responsive Design, Open Source Contribution
+
+</details>
+
+---
+
+## 🚩 Project Highlights
+
+### 🌟 Featured Projects
+
+<!-- Add your best/most relevant projects below!  
+You can pin your top repositories from your GitHub profile as well. Edit the links as needed.
+-->
+
+<table>
+  <tr>
+    <td>
+      <b>Portfolio Website</b><br>
+      A fully responsive React and Next.js-based portfolio with interactive animations.<br>
+      <a href="https://github.com/janviii09/portfolio">[Code]</a> • 
+      <a href="https://janviii09.github.io">[Live]</a><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React"/>
+      <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled-Components"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>AI Image Generator</b><br>
+      Built with Node.js backend and OpenAI API, allows users to create AI art.<br>
+      <a href="https://github.com/janviii09/ai-image-generator">[Code]</a><br>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB"/>
+    </td>
+  </tr>
+  <!-- Add more project rows as needed -->
+</table>
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janviii09&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=janviii09&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=janviii09&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=janviii09&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janviii09&layout=compact&theme=tokyonight&hide_border=true" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janviii09&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
 
-### 📬 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:guptajanvi0912@gmail.com"><img src="https://img.shields.io/badge/Email-guptajanvi0912@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/janviii09/"><img src="https://img.shields.io/badge/LinkedIn-Janvi%20Gupta-0077B5?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/janviii09"><img src="https://img.shields.io/badge/GitHub-janviii09-181717?style=for-the-badge&logo=github"></a>
 </p>
 
